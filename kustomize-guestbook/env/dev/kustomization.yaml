@@ -1,0 +1,8 @@
+namespace: dev
+
+resources:
+  - ../../base
+
+images:
+- name: "gcr.io/google-samples/hello-app"
+  newTag: "2.0"
